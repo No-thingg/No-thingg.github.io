@@ -22,7 +22,8 @@
   <entry>
     <title>CVE-2021-3129--Laravel Debug mode RCE</title>
     <url>/2021/07/12/Web%E5%AE%89%E5%85%A8-1/</url>
-    <content><![CDATA[<p>直接看pdf吧，懒得再写一遍了<br><a href="https://github.com/No-thingg/No-thingg.github.io/blob/main/file/CVE-2021-3129--Laravel%20Debug%20mode%20RCE.pdf">https://github.com/No-thingg/No-thingg.github.io/blob/main/file/CVE-2021-3129--Laravel%20Debug%20mode%20RCE.pdf</a></p>
+    <content><![CDATA[<p>直接看pdf吧，懒得再写一遍了</p>
+<p><a href="https://github.com/No-thingg/No-thingg.github.io/blob/main/file/CVE-2021-3129--Laravel%20Debug%20mode%20RCE.pdf">CVE-2021-3129–Laravel Debug mode RCE</a></p>
 ]]></content>
       <categories>
         <category>Web安全</category>
